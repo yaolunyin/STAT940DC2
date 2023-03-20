@@ -1,4 +1,4 @@
-# STAT940DC2
+# Sentence order prediction
 
 This project trains the model with a list of 5 sentences and their corresponding order (e.g [sentence 1, sentence 2, sentence 3, sentence 4, sentence 5], [1,2,3,4,5]) and predicts the correct order of sentences from new dataset. The model is from https://github.com/fabrahman/ReBART. See the citation below.
 
